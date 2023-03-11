@@ -5,15 +5,9 @@ from developer import Developer
 from manager import Manager
 
 
-# dev_1 = Developer('fifi', 'illee', 3000, 'java')
-# dev_2 = Developer('tititi', 'ika', 3000, 'java')
-
 # mgr_1 = Manager('Mr.dodo','tataaa',9000, [dev_1])
 
-# mgr_1.remove_employee(Developer('Edoo', 'seee', 3000, 'java'))
     
-# print(mgr_1.fullName())
-# mgr_1.print_employees()
 
 
 

@@ -1,5 +1,3 @@
-
-    
 from employee import Employee
 from developer import Developer
 from manager import Manager
